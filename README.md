@@ -1,4 +1,14 @@
-### Hi there 👋
+### 😄 Hi there! My name is Alezandra Udueni and I'm currently training to gain the skills to be a full stack developer. I'm a student on the Black Codher coding bootcamp.
+
+<a href ="https://www.bbc.co.uk/news/av/uk-england-birmingham-53741421">
+   <img src="https://ichef.bbci.co.uk/images/ic/1920x1080/p08njz69.jpg" alt="A screenshot from a BBC report about the Black Codher Bootcamp"></a>
+
+Above is a screenshot of a BBC report of the bootcamp. I'm the 3rd down on the left!
+
+###  🌱  Some of the things I'm learning include: Command Line & Git, HTML & (S)CSS, Vanilla JavaScript, NodeJS, React & React Native, Mongo Database, and Python 🐍
+
+### 🤔 My interests include Cyber Security and Ethical Hacking
+
 
 <!--
 **alezandraudueni/alezandraudueni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
